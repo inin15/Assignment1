@@ -1,0 +1,15 @@
+D:\CPI_02\Net.M.A005\Net.M.A005\bin\Debug\net6.0\Net.M.A005.Exercise1.exe
+D:\CPI_02\Net.M.A005\Net.M.A005\bin\Debug\net6.0\Net.M.A005.Exercise1.deps.json
+D:\CPI_02\Net.M.A005\Net.M.A005\bin\Debug\net6.0\Net.M.A005.Exercise1.runtimeconfig.json
+D:\CPI_02\Net.M.A005\Net.M.A005\bin\Debug\net6.0\Net.M.A005.Exercise1.dll
+D:\CPI_02\Net.M.A005\Net.M.A005\bin\Debug\net6.0\Net.M.A005.Exercise1.pdb
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.csproj.AssemblyReference.cache
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.AssemblyInfoInputs.cache
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.AssemblyInfo.cs
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.csproj.CoreCompileInputs.cache
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.dll
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\refint\Net.M.A005.Exercise1.dll
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.pdb
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\Net.M.A005.Exercise1.genruntimeconfig.cache
+D:\CPI_02\Net.M.A005\Net.M.A005\obj\Debug\net6.0\ref\Net.M.A005.Exercise1.dll
