@@ -1,0 +1,15 @@
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Assignment1.exe
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Assignment1.deps.json
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Assignment1.dll
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Assignment1.pdb
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.dll
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\Assignment1.dll
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.pdb
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\Assignment1.dll

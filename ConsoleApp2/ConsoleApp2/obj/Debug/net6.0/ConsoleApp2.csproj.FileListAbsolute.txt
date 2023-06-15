@@ -1,0 +1,15 @@
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+D:\CPI_02\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+D:\CPI_02\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
